@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $message = $_POST["message"];
 
   // Set the recipient email address
-  $to = "adeseghacyril@gmail.com";
+  $to = "akuretechhub@gmail.com";
 
   // Set the email subject
   $email_subject = "New Booking Form Submission: $subject";
